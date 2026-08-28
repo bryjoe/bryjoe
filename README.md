@@ -8,16 +8,17 @@ Computer Engineering Student | From administering real infrastructure to auditin
 
 ### 🧭 About me
 
-Computer engineering student (4th year), with hands-on experience in network and infrastructure administration — Active Directory deployment, Zabbix monitoring, MikroTik routers, pfSense — gained notably during an internship at a financial institution. I'm now specializing in **offensive cybersecurity** (penetration testing), with the goal of going freelance.
+Computer engineering student (4th year), with hands-on experience in network and infrastructure administration — Active Directory deployment, Zabbix monitoring, MikroTik routers, pfSense — gained notably during an internship at a financial institution. I'm now specializing in **offensive cybersecurity** (penetration testing).
 
 What sets me apart: I first **built and monitored** real infrastructure before starting to **audit** it with an offensive mindset — I don't just run tools, I understand what's behind them.
 
 ### 🔭 Currently working on
 
-- 🎯 **eJPT** certification (eLearnSecurity Junior Penetration Tester)
-- 🛡️ **Project Janus** — full attack chain on a simulated Active Directory/DMZ infrastructure (recon → RCE → pivoting → Kerberoasting → Suricata detection)
-- 📡 **Project Hermès** — network equipment audit and exploitation (firmware, UPnP, DNS hijacking)
-- 📚 Writing *Zabbix from Scratch*, a complete technical guide (~80 pages)
+- **eJPT** certification (eLearnSecurity Junior Penetration Tester)
+- **Certified Ethical Hacker** 
+- **Project Janus** — full attack chain on a simulated Active Directory/DMZ infrastructure (recon → RCE → pivoting → Kerberoasting → Suricata detection)
+- **Project Hermès** — network equipment audit and exploitation (firmware, UPnP, DNS hijacking)
+- Writing *Zabbix from Scratch*, a complete technical guide (~80 pages)
 
 ### 📌 Key projects
 
@@ -25,7 +26,7 @@ What sets me apart: I first **built and monitored** real infrastructure before s
 |---|---|
 | 🖥️ [**Zabbix Monitoring — MUPECI**](https://github.com/bryjoe/zabbix-monitoring) | Deployment of a full network monitoring system (Windows/Linux, MikroTik via SNMP, Hikvision NVR via ISAPI) for a financial institution |
 | 🏗️ [**Windows/Linux Admin Lab**](https://github.com/bryjoe/windows-linux-admin-lab) | Full enterprise infrastructure in a virtualized environment: Active Directory, GPO, DHCP, DNS, IIS/Nginx, Samba, MariaDB |
-| 📖 [**Zabbix from Scratch**](https://github.com/bryjoe/zabbix-from-scratch) | Personal end-to-end technical guide on Zabbix — installation, custom templates, alert noise reduction |
+| 📖 [**Zabbix from Scratch**](https://github.com/bryjoe/zabbix-from-scratch) *(in progress)* | Personal end-to-end technical guide on Zabbix — installation, custom templates, alert noise reduction |
 | 🛡️ **Project Janus** *(in progress)* | Offensive audit of an AD/DMZ infrastructure rebuilt in an isolated lab |
 | 📡 **Project Hermès** *(in progress)* | Security audit of network equipment — firmware, management protocols, hardening |
 
