@@ -23,9 +23,9 @@ What sets me apart: I first **built and monitored** real infrastructure before s
 
 | Project | Description |
 |---|---|
-| 🖥️ [**Zabbix Monitoring — MUPECI**](LIEN_REPO_ZABBIX_MUPECI) | Deployment of a full network monitoring system (Windows/Linux, MikroTik via SNMP, Hikvision NVR via ISAPI) for a financial institution |
-| 🏗️ [**Windows/Linux Admin Lab**](LIEN_REPO_ADMIN_LAB) | Full enterprise infrastructure in a virtualized environment: Active Directory, GPO, DHCP, DNS, IIS/Nginx, Samba, MariaDB |
-| 📖 [**Zabbix from Scratch**](LIEN_REPO_ZABBIX_GUIDE) | Personal end-to-end technical guide on Zabbix — installation, custom templates, alert noise reduction |
+| 🖥️ [**Zabbix Monitoring — MUPECI**](https://github.com/bryjoe/zabbix-monitoring) | Deployment of a full network monitoring system (Windows/Linux, MikroTik via SNMP, Hikvision NVR via ISAPI) for a financial institution |
+| 🏗️ [**Windows/Linux Admin Lab**](https://github.com/bryjoe/windows-linux-admin-lab) | Full enterprise infrastructure in a virtualized environment: Active Directory, GPO, DHCP, DNS, IIS/Nginx, Samba, MariaDB |
+| 📖 [**Zabbix from Scratch**](https://github.com/bryjoe/zabbix-from-scratch) | Personal end-to-end technical guide on Zabbix — installation, custom templates, alert noise reduction |
 | 🛡️ **Project Janus** *(in progress)* | Offensive audit of an AD/DMZ infrastructure rebuilt in an isolated lab |
 | 📡 **Project Hermès** *(in progress)* | Security audit of network equipment — firmware, management protocols, hardening |
 
@@ -46,4 +46,4 @@ What sets me apart: I first **built and monitored** real infrastructure before s
 
 ### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](LIEN_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-tchouamo-bb497b298)
